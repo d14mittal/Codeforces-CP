@@ -1,0 +1,1 @@
+{"name":"Local: GregCrypt","url":"a:\\Codeforces CP\\736 Div2\\GregCrypt.java","tests":[{"id":1628427820439,"input":"3\n11\n13\n17","output":"2 10\n2 12\n2 16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Codeforces CP\\736 Div2\\GregCrypt.java","group":"local","local":true}
