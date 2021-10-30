@@ -6,5 +6,7 @@
 using namespace std;
 
 int main() {
-  cout << "Dhruv is ambitious and focued towards his career";
+	int n;
+	cin>>n;
+ 	cout << "Dhruv is ambitious and focued towards his career "<<n;
 }

@@ -9,12 +9,15 @@ public class NextRound {
         for (int i = 0; i < n; i++) {
             a[i] = sc.nextInt();
         }
-        int i = 0;
-        int ans = 0;
-        while (a[i] >= a[k - 1] && a[i] != 0) {
-            ans++;
-            i++;
+        int count=0;
+        for(int i=0;i<n;i++){
+            if(a[i]>=a[k-1] && a[i]!=0){
+                count++;
+            }
+            else{
+                break;
+            }
         }
-        System.out.println(ans);
+        System.out.println(count);
     }
 }

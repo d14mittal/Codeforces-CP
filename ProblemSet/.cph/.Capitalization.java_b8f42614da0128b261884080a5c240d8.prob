@@ -1,0 +1,1 @@
+{"name":"Local: Capitalization","url":"a:\\Codeforces CP\\ProblemSet\\Capitalization.java","tests":[{"id":1631977584023,"input":"ApPle","output":"ApPle"},{"id":1631977802898,"input":"konjac\n","output":"Konjac\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Codeforces CP\\ProblemSet\\Capitalization.java","group":"local","local":true}

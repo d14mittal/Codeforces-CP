@@ -1,0 +1,1 @@
+{"name":"Local: Bitplusplus","url":"a:\\Codeforces CP\\ProblemSet\\Bitplusplus.java","tests":[{"id":1629116452517,"input":"1\n++X","output":"1"},{"id":1629116468219,"input":"2\nX++\n--X","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Codeforces CP\\ProblemSet\\Bitplusplus.java","group":"local","local":true}
